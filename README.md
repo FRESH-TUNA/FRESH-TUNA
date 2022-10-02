@@ -16,6 +16,7 @@
 - 학원, 과외를 소개하는 웹서비스, [전국학원자랑](https://github.com/ghost-coding-king) (2022, 올해말까지 개발예정)
 
 ### 🎖️ Certificates
+- AWS Solution Architect Associate (2020)
 - AWS Solution Architect Professional (2021)
 
 
