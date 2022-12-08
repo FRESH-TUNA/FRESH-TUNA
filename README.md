@@ -11,7 +11,6 @@
 </p>
 
 ### 👾 My Projects
-- 강원대학교 대동제 축제 사이트, [머동머동](https://github.com/FRESH-TUNA/knu-festival-2019) (2019-2020)
 - 코딩테스트 연습을 돕는 서비스, [터틀](https://github.com/FRESH-TUNA/turtle-core) (2022)
 - 학원, 과외를 소개하는 웹서비스, [전국학원자랑](https://github.com/ghost-coding-king) (2022, 올해말까지 개발예정)
 
