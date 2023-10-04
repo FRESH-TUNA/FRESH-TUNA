@@ -13,11 +13,13 @@
 ### 👾 My Projects
 - 코딩테스트 연습을 돕는 서비스, [터틀](https://github.com/FRESH-TUNA/turtle-core) (2022)
 - 학원, 과외를 소개하는 웹서비스, [전국학원자랑](https://github.com/FRESH-TUNA/academy-show) (2022, 개발중)
+- 재고관리 API, [sharp](https://github.com/FRESH-TUNA/sharp) (2023, 개발중)
 
-### 🎖️ Certificates
-- AWS Solution Architect Associate (2020)
-- AWS Solution Architect Professional (2021)
+### 👯 My Contribution
+- [FOSSLight HUB](https://github.com/fosslight/fosslight)
 
+### 🔭 PS
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lunacircle4)](https://solved.ac/lunacircle4)
 
 <!--
 **FRESH-TUNA/FRESH-TUNA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
