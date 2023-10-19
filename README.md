@@ -14,6 +14,7 @@
 - 코딩테스트 연습을 돕는 서비스, [터틀](https://github.com/FRESH-TUNA/turtle-core) (2022)
 - 학원, 과외를 소개하는 웹서비스, [전국학원자랑](https://github.com/FRESH-TUNA/academy-show) (2022, 개발중)
 - 재고관리 API, [sharp](https://github.com/FRESH-TUNA/sharp) (2023, 개발중)
+- HAL 템플릿 파싱을 돕는 코를린 라이브러리, [HALO](https://github.com/FRESH-TUNA/HALO) (2023, 개발중)
 
 ### 👯 My Contribution
 - [FOSSLight HUB](https://github.com/fosslight/fosslight)
